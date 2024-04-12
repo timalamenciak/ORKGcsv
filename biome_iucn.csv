@@ -1,0 +1,109 @@
+﻿realm,biome,efg
+Terrestrial,T1 Tropical-subtropical forests,T1.1 Tropical-subtropical lowland rainforests
+Terrestrial,T1 Tropical-subtropical forests,T1.2 Tropical-subtropical dry forests and thickets
+Terrestrial,T1 Tropical-subtropical forests,T1.3 Tropical-subtropical montane rainforests
+Terrestrial,T1 Tropical-subtropical forests,T1.4 Tropical heath forests
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.1 Boreal and temperate high montane forests and woodlands
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.2 Deciduous temperate forests
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.3 Oceanic cool temperate rainforests
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.4 Warm temperate laurophyll forests
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.5 Temperate pyric humid forests
+Terrestrial,T2 Temperate-boreal forests & woodlands,T2.6 Temperate pyric sclerophyll forests and woodlands
+Terrestrial,T3 Shrublands & shrubby woodlands,T3.1 Seasonally dry tropical shrublands
+Terrestrial,T3 Shrublands & shrubby woodlands,T3.2 Seasonally dry temperate heaths and shrublands
+Terrestrial,T3 Shrublands & shrubby woodlands,T3.3 Cool temperate heathlands
+Terrestrial,T3 Shrublands & shrubby woodlands,"T3.4 Rocky pavements, screes and lava flows"
+Terrestrial,T4 Savannas and grasslands,T4.1 Trophic savannas
+Terrestrial,T4 Savannas and grasslands,T4.2 Pyric tussock savannas
+Terrestrial,T4 Savannas and grasslands,T4.3 Hummock savannas
+Terrestrial,T4 Savannas and grasslands,T4.4 Temperate woodlands
+Terrestrial,T4 Savannas and grasslands,T4.5 Temperate subhumid grasslands
+Terrestrial,T5 Deserts and semi-deserts,T5.1 Semi-desert steppes
+Terrestrial,T5 Deserts and semi-deserts,T5.2 Thorny deserts and semi-deserts
+Terrestrial,T5 Deserts and semi-deserts,T5.3 Sclerophyll hot deserts and semi-deserts
+Terrestrial,T5 Deserts and semi-deserts,T5.4 Cool deserts and semi-deserts
+Terrestrial,T5 Deserts and semi-deserts,T5.5 Hyper-arid deserts
+Terrestrial,T6 Polar-alpine,"T6.1 Ice sheets, glaciers and perennial snowfields"
+Terrestrial,T6 Polar-alpine,T6.2 Polar-alpine rocky outcrops
+Terrestrial,T6 Polar-alpine,T6.3 Polar tundra and deserts
+Terrestrial,T6 Polar-alpine,T6.4 Temperate alpine grasslands and shrublands
+Terrestrial,T6 Polar-alpine,T6.5 Tropical alpine grasslands and shrublands
+Terrestrial,T7 Intensive land-use systems,T7.1 Annual croplands
+Terrestrial,T7 Intensive land-use systems,T7.2 Sown pastures and fields
+Terrestrial,T7 Intensive land-use systems,T7.3 Plantations
+Terrestrial,T7 Intensive land-use systems,T7.4 Urban and industrial ecosystems
+Terrestrial,T7 Intensive land-use systems,T7.5 Derived semi-natural pastures and oldfields
+Subterranean,S1 Subterranean lithic systems,S1.1 Aerobic caves
+Subterranean,S1 Subterranean lithic systems,S1.2 Endolithic systems
+Subterranean,S1 Subterranean lithic systems,S2.1 Anthropogenic subterranean voids
+Subterranean-Freshwater,SF1 Subterranean freshwaters,SF1.1 Underground streams and pools
+Subterranean-Freshwater,SF1 Subterranean freshwaters,SF1.2 Groundwater ecosystems
+Subterranean-Freshwater,SF2 Anthropogenic subterranean freshwaters,SF2.1 Water pipes and subterranean canals
+Subterranean-Freshwater,SF2 Anthropogenic subterranean freshwaters,SF2.2 Flooded mines and other voids
+Subterranean-Marine,SM1 Subterranean tidal systems,SM3.1 Anchialine caves
+Subterranean-Marine,SM1 Subterranean tidal systems,SM3.2 Anchialine pools
+Subterranean-Marine,SM1 Subterranean tidal systems,SM3.1 Sea caves
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.1 Tropical flooded forests and peat forests
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.2 Subtropical/temperate forested wetlands
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.3 Permanent marshes
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.4 Seasonal floodplain marshes
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.5 Episodic arid floodplains
+Freshwater-Terrestrial,TF1 Palustrine wetlands,"TF1.6 Boreal, temperate and montane peat bogs"
+Freshwater-Terrestrial,TF1 Palustrine wetlands,TF1.7 Boreal and temperate fens
+Freshwater,F1 Rivers and streams,F1.1 Permanent upland streams
+Freshwater,F1 Rivers and streams,F1.2 Permanent lowland rivers
+Freshwater,F1 Rivers and streams,F1.3 Freeze-thaw rivers and streams
+Freshwater,F1 Rivers and streams,F1.4 Seasonal upland streams
+Freshwater,F1 Rivers and streams,F1.5 Seasonal lowland rivers
+Freshwater,F1 Rivers and streams,F1.6 Episodic arid rivers
+Freshwater,F1 Rivers and streams,F1.7 Large lowland rivers
+Freshwater,F2 Lakes,F2.1 Large permanent freshwater lakes
+Freshwater,F2 Lakes,F2.2 Small permanent freshwater lakes
+Freshwater,F2 Lakes,F2.3 Seasonal freshwater lakes
+Freshwater,F2 Lakes,F2.4 Freeze-thaw freshwater lakes
+Freshwater,F2 Lakes,F2.5 Ephemeral freshwater lakes
+Freshwater,F2 Lakes,F2.6 Permanent salt and soda lakes
+Freshwater,F2 Lakes,F2.7 Ephemeral salt lakes
+Freshwater,F2 Lakes,F2.8 Artesian springs and oases
+Freshwater,F2 Lakes,F2.9 Geothermal pools and wetlands
+Freshwater,F2 Lakes,F2.10 Subglacial lakes
+Freshwater,F3 Artificial fresh waters,F3.1 Large reservoirs
+Freshwater,F3 Artificial fresh waters,F3.2 Constructed lacustrine wetlands
+Freshwater,F3 Artificial fresh waters,F3.3 Rice paddies
+Freshwater,F3 Artificial fresh waters,F3.4 Freshwater aquafarms
+Freshwater,F3 Artificial fresh waters,"F3.5 Canals, ditches and drains"
+Freshwater-Marine,FM1 Semi-confined transitional waters,FM1.1 Deepwater coastal inlets
+Freshwater-Marine,FM1 Semi-confined transitional waters,FM1.2 Permanently open riverine estuaries and bays
+Freshwater-Marine,FM1 Semi-confined transitional waters,FM1.3 Intermittently closed and open lakes and lagoons
+Marine,M Marine Shelfs,M1.1 Seagrass meadows
+Marine,M Marine Shelfs,M1.2 Kelp forests
+Marine,M Marine Shelfs,M1.3 Photic coral reefs
+Marine,M Marine Shelfs,M1.4 Shellfish beds and reefs
+Marine,M Marine Shelfs,M1.5 Photo-limited marine animal forests
+Marine,M Marine Shelfs,M1.6 Subtidal rocky reefs
+Marine,M Marine Shelfs,M1.7 Subtidal sand beds
+Marine,M Marine Shelfs,M1.8 Subtidal mud plains
+Marine,M Marine Shelfs,M1.9 Upwelling zones
+Marine,M2 Pelagic ocean waters,M2.1 Epipelagic ocean waters
+Marine,M2 Pelagic ocean waters,M2.2 Mesopelagic ocean waters
+Marine,M2 Pelagic ocean waters,M2.3 Bathypelagic ocean waters
+Marine,M2 Pelagic ocean waters,M2.4 Abyssopelagic ocean waters
+Marine,M2 Pelagic ocean waters,M2.5 Sea ice
+Marine,M3 Deep sea floors,M3.1 Continental and island slopes
+Marine,M3 Deep sea floors,M3.2 Marine canyons
+Marine,M3 Deep sea floors,M3.3 Abyssal plains
+Marine,M3 Deep sea floors,"M3.4 Seamounts, ridges and plateaus"
+Marine,M3 Deep sea floors,M3.5 Deepwater biogenic beds
+Marine,M3 Deep sea floors,M3.6 Hadal trenches and troughs
+Marine,M3 Deep sea floors,M3.7 Chemosynthetically-based ecosystems
+Marine,M4 Anthropogenic marine systems,M4.1 Submerged artificial structures
+Marine,M4 Anthropogenic marine systems,M4.2 Marine aquafarms
+Marine-Terrestrial,MT1 Shoreline systems,MT1.1 Rocky shores
+Marine-Terrestrial,MT1 Shoreline systems,MT1.2 Muddy shores
+Marine-Terrestrial,MT1 Shoreline systems,MT1.3 Sandy shores
+Marine-Terrestrial,MT1 Shoreline systems,MT1.4 Boulder and cobble shores
+Marine-Terrestrial,MT2 Supralittoral coastal systems,MT2.1 Coastal shrublands and grasslands
+Marine-Terrestrial,MT3 Anthropogenic shorelines,MT3.1 Artificial shores
+Marine-Freshwater-Terrestrial,MFT1 Brackish tidal systems,MFT1.1 Coastal river deltas
+Marine-Freshwater-Terrestrial,MFT1 Brackish tidal systems,MFT1.2 Intertidal forests and shrublands
+Marine-Freshwater-Terrestrial,MFT1 Brackish tidal systems,MFT1.3 Coastal saltmarshes and reedbeds
